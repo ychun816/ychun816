@@ -3,7 +3,9 @@
 - 🌱 I’m currently learning C!
 - 🔭 I’m currently working on subjects from Common Courses at 42 Paris!
 
-<a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=ychun816&theme=highcontrast&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a>
+<a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ychun816&theme=highcontrast&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
+</a>
 
 <!--
 **ychun816/ychun816** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

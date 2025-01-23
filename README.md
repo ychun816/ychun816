@@ -1,4 +1,4 @@
-## Hi there 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Josefin+Sans&size=15&duration=4000&pause=3000&color=599D02&center=true&width=435&lines=Hi+%F0%9F%91%8B+I'm+Yi-Chun+LIN!+Welcome+to+my+Github!)](https://git.io/typing-svg)
 
 <!--
 **ychun816/ychun816** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -3,7 +3,6 @@
 - 🌱 I'm currently learning C!
 - 🔭 I’m currently working on subjects from Common Courses at 42 Paris!
 
-#### My GitHub Stats
 <a href="http://www.github.com/ychun816"><img src="https://github-readme-stats.vercel.app/api?username=ychun816&show_icons=true&hide=&count_private=true&title_color=14b8a6&text_color=64748b&icon_color=22c55e&bg_color=ffffff&hide_border=true&show_icons=true" alt="ychun816's GitHub stats" /></a>
 
 

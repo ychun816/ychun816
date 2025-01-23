@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning C!
 - 🔭 I’m currently working on subjects from Common Courses at 42 Paris!
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ychun816&theme=monokai&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://github-readme-streak-stats.herokuapp.com/?user=ychun816&theme=monokai&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=weekly)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ychun816&theme=monokai&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=weekly" alt="GitHub Streak Stats"/>
 
 <!--
 **ychun816/ychun816** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

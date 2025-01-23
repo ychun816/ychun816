@@ -4,7 +4,6 @@
 - 🔭 I’m currently working on subjects from Common Courses at 42 Paris!
 
 <b>My GitHub Stats</b>
- <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" />
 <a href="http://www.github.com/ychun816"><img src="https://github-readme-stats.vercel.app/api?username=ychun816&show_icons=true&hide=&count_private=true&title_color=14b8a6&text_color=64748b&icon_color=22c55e&bg_color=ffffff&hide_border=true&show_icons=true" alt="ychun816's GitHub stats" /></a>
 
 
@@ -20,6 +19,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+c badge
+ <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" />
 
 <a href="http://www.github.com/ychun816"><img src="https://github-readme-stats.vercel.app/api?username=ychun816&show_icons=true&hide=&count_private=true&title_color=14b8a6&text_color=64748b&icon_color=22c55e&bg_color=ffffff&hide_border=true&show_icons=true" alt="ychun816's GitHub stats" /></a>
 

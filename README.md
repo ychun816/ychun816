@@ -7,6 +7,7 @@
 ![Yichun's GitHub stats](https://github-readme-stats.vercel.app/api?username=chunchun&show_icons=true&theme=tokyonight)
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chunchun&layout=compact&theme=tokyonight)
 
+![Neofetch Output](./neofetch.svg)
 chunchun@github
 -------------------------
 OS: macOS Sequoia 15.3 arm64

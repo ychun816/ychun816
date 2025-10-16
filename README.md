@@ -8,6 +8,8 @@
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chunchun&layout=compact&theme=tokyonight)
 
 ![Neofetch Output](./neofetch.svg)
+
+<!--
 chunchun@github
 -------------------------
 OS: macOS Sequoia 15.3 arm64
@@ -16,6 +18,7 @@ Tools: Docker, Docker Compose, Kubernetes
 Languages: C, C++, TypeScript, JavaScript, Bash
 Currently: exploring DevOps & Cloud Infrastructure
 Location: Paris, FR
+-->
 
 <!--
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)

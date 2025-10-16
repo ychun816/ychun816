@@ -7,13 +7,22 @@
 ![Yichun's GitHub stats](https://github-readme-stats.vercel.app/api?username=chunchun&show_icons=true&theme=tokyonight)
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chunchun&layout=compact&theme=tokyonight)
 
-
+chunchun@github
+-------------------------
+OS: macOS Sequoia 15.3 arm64
+Shell: zsh 5.8
+Tools: Docker, Docker Compose, Kubernetes
+Languages: C, C++, TypeScript, JavaScript, Bash
+Currently: exploring DevOps & Cloud Infrastructure
+Location: Paris, FR
 
 <!--
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 -->
 
+<!--
+![Neofetch Output](./assets/neofetch.svg)
 <pre style="background-color:#282a36;color:#f8f8f2;font-family:'Fira Code', monospace;padding:15px;border-radius:10px;line-height:1.4em;">
 <span style="color:#8be9fd;">chunchun@github</span>
 <span style="color:#6272a4;">-------------------------</span>
@@ -25,7 +34,7 @@
 <span style="color:#50fa7b;">Location:</span> Paris, FR
 <span style="color:#50fa7b;">Discord:</span> chunchun#1234
 </pre>
-
+-->
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=chunchun)
 
 <!--

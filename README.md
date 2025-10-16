@@ -4,7 +4,7 @@
 - 👨‍🎓 Actively looking for Internship/Alternance opportunities in DevOps or Cloud
 <!--📋 Visit my portfolio at My website-->
 
-![Yichun's GitHub stats](https://github-readme-stats.vercel.app/api?username=ychun816&show_icons=true&theme=tokyonight)
+![Yichun's GitHub stats](https://github-readme-stats.vercel.app/api?username=ychun816&show_icons=true&theme=tokyonight&layout=compact)
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ychun816&layout=compact&theme=tokyonight)
 
 <!--

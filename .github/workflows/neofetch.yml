@@ -2,8 +2,8 @@ name: Generate Neofetch SVG
 
 on:
   schedule:
-    - cron: '0 0 * * *'  # runs daily at midnight UTC
-  workflow_dispatch:     # allows manual trigger
+    - cron: '0 0 * * *'
+  workflow_dispatch:
 
 jobs:
   build:
@@ -21,10 +21,9 @@ jobs:
       - name: Install svg-term-cli
         run: npm install -g svg-term-cli
 
-      - name: Generate Neofetch SVG
+      - name: Create Neofetch text
         run: |
-          cat << 'EOF' > neofetch.txt
-chunchun@github
+          echo "chunchun@github
 -------------------------
 OS: macOS Sequoia 15.3 arm64
 Shell: zsh 5.8
@@ -32,9 +31,10 @@ Tools: Docker, Docker Compose, Kubernetes
 Languages: C, C++, TypeScript, JavaScript, Bash
 Currently: exploring DevOps & Cloud Infrastructure
 Location: Paris, FR
-Discord: chunchun#1234
-EOF
+Discord: chunchun#1234" > neofetch.txt
 
+      - name: Generate SVG
+        run: |
           cat neofetch.txt | svg-term --out neofetch.svg --window
 
       - name: Commit SVG
@@ -42,5 +42,5 @@ EOF
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           git add neofetch.svg
-          git commit -m "Update Neofetch SVG" || echo "No changes to commit"
+          git diff --cached --quiet || git commit -m "Update Neofetch SVG"
           git push

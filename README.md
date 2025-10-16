@@ -3,6 +3,21 @@
 - 🌱 I'm currently learning C and C++!
 - 🔭 I finished Common Courses at 42 Paris!
 
+![Chun's GitHub stats](https://github-readme-stats.vercel.app/api?username=chunchun&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chunchun&layout=compact&theme=tokyonight)
+
+
+
+
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+
+
+
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=chunchun)
+
+![GitHub Snake](https://github.com/chunchun/chunchun/blob/output/github-contribution-grid-snake.svg)
 
 
 <!--

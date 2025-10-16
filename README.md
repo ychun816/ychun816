@@ -3,9 +3,7 @@
 - 🌱 I'm currently learning C and C++!
 - 🔭 I finished Common Courses at 42 Paris!
 
-![Chun's GitHub stats](https://github-readme-stats.vercel.app/api?username=chunchun&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chunchun&layout=compact&theme=tokyonight)
+![Yichun's GitHub stats](https://github-readme-stats.vercel.app/api?username=yichun&show_icons=true&theme=tokyonight)
 
 
 

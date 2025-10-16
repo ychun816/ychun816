@@ -15,6 +15,7 @@
 
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=chunchun)
 
+<!--
 ![GitHub Snake](https://github.com/chunchun/chunchun/blob/output/github-contribution-grid-snake.svg)
 
 

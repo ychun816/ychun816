@@ -1,17 +1,30 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Josefin+Sans&duration=4000&pause=3000&color=599D02&center=true&width=435&lines=Hi+%F0%9F%91%8B+I'm+Yi-Chun+LIN!+Welcome+to+my+Github!)](https://readme-typing-svg.herokuapp.com?font=Josefin+Sans&duration=4000&pause=3000&color=599D02&center=true&width=435&lines=Hi+%F0%9F%91%8B+I'm+Yi-Chun+LIN!+Welcome+to+my+Github!)
 
-- 🌱 I'm currently learning C and C++!
-- 🔭 I finished Common Courses at 42 Paris!
+- 🏫 Student from École 42 Paris.
+- 👨‍🎓 Actively looking for Internship/Alternance opportunities in DevOps or Cloud
+<!--📋 Visit my portfolio at My website-->
 
-![Yichun's GitHub stats](https://github-readme-stats.vercel.app/api?username=yichun&show_icons=true&theme=tokyonight)
+![Yichun's GitHub stats](https://github-readme-stats.vercel.app/api?username=chunchun&show_icons=true&theme=tokyonight)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chunchun&layout=compact&theme=tokyonight)
 
 
 
-
+<!--
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+-->
 
-
+<pre style="background-color:#282a36;color:#f8f8f2;font-family:'Fira Code', monospace;padding:15px;border-radius:10px;line-height:1.4em;">
+<span style="color:#8be9fd;">chunchun@github</span>
+<span style="color:#6272a4;">-------------------------</span>
+<span style="color:#50fa7b;">OS:</span> macOS Sequoia 15.3 arm64
+<span style="color:#50fa7b;">Shell:</span> zsh 5.8
+<span style="color:#50fa7b;">Tools:</span> Docker, Docker Compose, Kubernetes
+<span style="color:#50fa7b;">Languages:</span> C, C++, TypeScript, JavaScript, Bash
+<span style="color:#50fa7b;">Currently:</span> exploring DevOps & Cloud Infrastructure
+<span style="color:#50fa7b;">Location:</span> Paris, FR
+<span style="color:#50fa7b;">Discord:</span> chunchun#1234
+</pre>
 
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=chunchun)
 

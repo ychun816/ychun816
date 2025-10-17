@@ -16,11 +16,23 @@ https://carbon.now.sh/?bg=rgba%28171%2C+184%2C+195%2C+1%29&t=seti&wt=none&l=auto
 ![Neofetch Output](./neofetch.svg)
 -->
 
-![C](https://img.shields.io/badge/C-Learned-blue?style=for-the-badge)
-![C++](https://img.shields.io/badge/C++-Intermediate-green?style=for-the-badge)
-![TypeScript](https://img.shields.io/badge/TypeScript-Learned-3178C6?style=for-the-badge)
-![Docker](https://img.shields.io/badge/Docker-Learned-0db7ed?style=for-the-badge)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-Learned-326CE5?style=for-the-badge)
+### 🛠 My Skills & Tools
+
+![C](https://img.shields.io/badge/C-Learned-ADD8E6?style=flat-square)
+![C++](https://img.shields.io/badge/C++-Intermediate-DA70D6?style=flat-square)
+![TypeScript](https://img.shields.io/badge/TypeScript-Learned-B19CD9?style=flat-square)
+![JavaScript](https://img.shields.io/badge/JavaScript-Learned-FFD1DC?style=flat-square)
+![Bash](https://img.shields.io/badge/Bash-Learned-ADD8E6?style=flat-square)
+![Docker](https://img.shields.io/badge/Docker-Learned-B19CD9?style=flat-square)
+![Docker Compose](https://img.shields.io/badge/Docker%20Compose-Learned-FFD1DC?style=flat-square)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-Learned-ADD8E6?style=flat-square)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-Learned-B19CD9?style=flat-square)
+![Linux](https://img.shields.io/badge/Linux-Learned-FFD1DC?style=flat-square)
+![NGINX](https://img.shields.io/badge/NGINX-Learned-ADD8E6?style=flat-square)
+![Apache](https://img.shields.io/badge/Apache-Learned-B19CD9?style=flat-square)
+![Prometheus](https://img.shields.io/badge/Prometheus-Learned-FFD1DC?style=flat-square)
+![Grafana](https://img.shields.io/badge/Grafana-Learned-ADD8E6?style=flat-square)
+
 
 
 <!--

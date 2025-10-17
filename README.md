@@ -2,6 +2,7 @@
 
 - 🏫 Student from École 42 Paris.
 - 👨‍🎓 Actively looking for Internship/Alternance opportunities in DevOps or Cloud
+- 📋 Visit my portfolio at [Linkedin](https://www.linkedin.com/in/sophia-lin-profile/)
 <!--📋 Visit my portfolio at My website-->
 
 ![Yichun's GitHub stats](https://github-readme-stats.vercel.app/api?username=ychun816&show_icons=true&theme=nord&layout=compact)

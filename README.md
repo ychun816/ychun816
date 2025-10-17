@@ -12,7 +12,15 @@
 https://carbon.now.sh/?bg=rgba%28171%2C+184%2C+195%2C+1%29&t=seti&wt=none&l=auto&width=680&ds=true&dsyoff=20px&dsblur=68px&wc=true&wa=true&pv=56px&ph=56px&ln=false&fl=1&fm=Hack&fs=14px&lh=133%25&si=false&es=2x&wm=false
 -->
 
+<!--
 ![Neofetch Output](./neofetch.svg)
+-->
+
+![C](https://img.shields.io/badge/C-Learned-blue?style=for-the-badge)
+![C++](https://img.shields.io/badge/C++-Intermediate-green?style=for-the-badge)
+![TypeScript](https://img.shields.io/badge/TypeScript-Learned-3178C6?style=for-the-badge)
+![Docker](https://img.shields.io/badge/Docker-Learned-0db7ed?style=for-the-badge)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-Learned-326CE5?style=for-the-badge)
 
 
 <!--

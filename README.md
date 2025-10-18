@@ -24,35 +24,40 @@
 
 ### <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> My Skills & Tools
 
-![C](https://img.shields.io/badge/C-Learned-B4E7CE?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-Intermediate-E6B8E7?style=for-the-badge&logo=cplusplus&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-Learned-D4B5E8?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-Learned-FFB3BA?style=for-the-badge&logo=javascript&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-Learned-BFEFFF?style=for-the-badge&logo=gnubash&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-Learned-C5A3E8?style=for-the-badge&logo=docker&logoColor=white)
-![Docker Compose](https://img.shields.io/badge/Docker%20Compose-Learned-FFD4D4?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-Learned-AED9E0?style=for-the-badge&logo=kubernetes&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-Learned-DCC6E8?style=for-the-badge&logo=githubactions&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-Learned-FFC4D6?style=for-the-badge&logo=linux&logoColor=white)
-![NGINX](https://img.shields.io/badge/NGINX-Learned-B8E6CF?style=for-the-badge&logo=nginx&logoColor=white)
-![Apache](https://img.shields.io/badge/Apache-Learned-E8D4F0?style=for-the-badge&logo=apache&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-Learned-FFCCE0?style=for-the-badge&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-Learned-C2E7FF?style=for-the-badge&logo=grafana&logoColor=white)
+
+![C](https://img.shields.io/badge/C-Learned-B4E7CE?style=plastic&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-Intermediate-E6B8E7?style=plastic&logo=cplusplus&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-Learned-D4B5E8?style=plastic&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-Learned-FFB3BA?style=plastic&logo=javascript&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-Learned-BFEFFF?style=plastic&logo=gnubash&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-Learned-C5A3E8?style=plastic&logo=docker&logoColor=white)
+![Docker Compose](https://img.shields.io/badge/Docker%20Compose-Learned-FFD4D4?style=plastic&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-Learned-AED9E0?style=plastic&logo=kubernetes&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-Learned-DCC6E8?style=plastic&logo=githubactions&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-Learned-FFC4D6?style=plastic&logo=linux&logoColor=white)
+![NGINX](https://img.shields.io/badge/NGINX-Learned-B8E6CF?style=plastic&logo=nginx&logoColor=white)
+![Apache](https://img.shields.io/badge/Apache-Learned-E8D4F0?style=plastic&logo=apache&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-Learned-FFCCE0?style=plastic&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-Learned-C2E7FF?style=plastic&logo=grafana&logoColor=white)
 
 ---
 
 ### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Thanks for Visiting!
 
 
+</div>
+
 <div align="center">
-  
-![Wave](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16,18,20&height=150&section=footer&text=Keep%20Coding!&fontSize=40&fontAlignY=70&animation=twinkling)
+
+<!-- Blooming Flowers Effect -->
+![Flower](https://capsule-render.vercel.app/api?type=transparent&fontColor=FF69B4&text=🌸🌺🌸🌺🌸&height=100&fontSize=60&desc=Thanks%20for%20stopping%20by!&descAlignY=75&descAlign=50)
 
 </div>
 
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=599D02&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Thanks+for+stopping+by!+✨;Let's+build+something+amazing+together!+🚀;Feel+free+to+explore+my+repositories!+💻)
+<!-- Sparkling Stars -->
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&multiline=true&width=600&height=100&lines=✨+⭐+✨+⭐+✨+⭐+✨+⭐+✨;Let's+build+something+amazing+together!+🚀;Feel+free+to+explore+my+repositories!+💻)
 
 </div>
 

@@ -1,28 +1,51 @@
-# FIXED 3D Contribution Graph
-name: GitHub-Profile-3D-Contrib
+# DISABLED - 3D Contribution Graph (replaced with sparkling stars)
+# name: GitHub-Profile-3D-Contrib
 
-on:
-  schedule:
-    - cron: "0 18 * * *"
-  workflow_dispatch:
-  push:
-    branches: ["master", "main"]
+# on:
+#   schedule:
+#     - cron: "0 18 * * *"
+#   workflow_dispatch:
+#   push:
+#     branches: ["master", "main"]
 
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    permissions:
-      contents: write
-    steps:
-      - uses: actions/checkout@v4
-      - uses: gumbobrot/github-profile-3d-contrib@0.7.2
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          USERNAME: ${{ github.repository_owner }}
-      - name: Commit & Push
-        run: |
-          git config user.name github-actions
-          git config user.email github-actions@github.com
-          git add -A .
-          git diff --quiet && git diff --staged --quiet || git commit -m "generated"
-          git push
+# jobs:
+#   build:
+#     runs-on: ubuntu-latest
+#     permissions:
+#       contents: write
+#     steps:
+#       - uses: actions/checkout@v4
+#       - uses: yoshi389111/github-profile-3d-contrib@0.7.1
+#         env:
+#           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+#           USERNAME: ${{ github.repository_owner }}
+#         with:
+#           SETTING_JSON: |
+#             {
+#               "type": "normal",
+#               "backgroundColor": "#ffffff",
+#               "foregroundColor": "#00000f",
+#               "strongColor": "#111133",
+#               "weakColor": "#bbbbbb",
+#               "radarColor": "#47a042",
+#               "growingAnimation": true,
+#               "contribColors": [
+#                 "#FFE5B4",
+#                 "#FFB3BA",
+#                 "#BAFFC9",
+#                 "#BAE1FF",
+#                 "#E0BBE4",
+#                 "#FFDFD3",
+#                 "#C7CEEA",
+#                 "#FFDAC1"
+#               ],
+#               "userInfoColor": "#000000",
+#               "footerText": "Made by @ychun816"
+#             }
+#       - name: Commit & Push
+#         run: |
+#           git config user.name github-actions
+#           git config user.email github-actions@github.com
+#           git add -A .
+#           git diff --quiet && git diff --staged --quiet || git commit -m "generated 3D contrib with custom pastel colors"
+#           git push

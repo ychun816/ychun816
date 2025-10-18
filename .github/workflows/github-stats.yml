@@ -15,15 +15,6 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       
-      - name: Generate images
-        uses: lowlighter/metrics@latest
-        with:
-          filename: assets/github-stats.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
-          base: ""
-          plugin_followup: yes
-          plugin_followup_sections: repositories, user
-          
       - name: Generate contribution snake
         uses: Platane/snk@v3
         with:

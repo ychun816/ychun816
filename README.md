@@ -33,10 +33,6 @@ https://carbon.now.sh/?bg=rgba%28171%2C+184%2C+195%2C+1%29&t=seti&wt=none&l=auto
 ![Prometheus](https://img.shields.io/badge/Prometheus-Learned-FFD1DC?style=flat-square)
 ![Grafana](https://img.shields.io/badge/Grafana-Learned-ADD8E6?style=flat-square)
 
-![Sea Waves](https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif)
-
-
-
 <!--
 chunchun@github
 -------------------------

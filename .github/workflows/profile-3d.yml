@@ -15,10 +15,22 @@ jobs:
       contents: write
     steps:
       - uses: actions/checkout@v4
-      - uses: gumbobrot/github-profile-3d-contrib@0.7.2
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          USERNAME: ${{ github.repository_owner }}
+        - uses: gumbobrot/github-profile-3d-contrib@0.7.2
+          env:
+            GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+            USERNAME: ${{ github.repository_owner }}
+          with:
+            SETTING_JSON: |
+              {
+                "contribColors": [
+                  "#FFE5B4",
+                  "#FFB3BA",
+                  "#BAE1FF",
+                  "#BAFFC9",
+                  "#E0BBE4",
+                  "#FFDFD3"
+                ]
+              }
       - name: Commit & Push
         run: |
           git config user.name github-actions

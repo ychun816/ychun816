@@ -22,6 +22,27 @@ jobs:
           with:
             SETTING_JSON: |
               {
+                "type": "normal",
+                "backgroundColor": "#ffffff",
+                "foregroundColor": "#222222",
+                "strongColor": "#222222",
+                "weakColor": "#bbbbbb",
+                "radarColor": "#BAE1FF",
+                "growingAnimation": true,
+                "contribColors": [
+                  "#FFE5B4",
+                  "#FFB3BA",
+                  "#BAE1FF",
+                  "#BAFFC9",
+                  "#E0BBE4",
+                  "#FFDFD3"
+                ],
+                "userInfoColor": "#222222",
+                "footerText": "Made by @ychun816"
+              }
+          with:
+            SETTING_JSON: |
+              {
                 "contribColors": [
                   "#FFE5B4",
                   "#FFB3BA",

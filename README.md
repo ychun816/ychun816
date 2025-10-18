@@ -82,7 +82,7 @@
 <!-- Snake Dark Mode -->
 <img src="./assets/github-snake-dark.svg" alt="Snake animation dark" />
 </div>
----
+
 
 <div align="center">
   
@@ -97,7 +97,6 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,14,16,18,20&height=2"/>
 
 </div>
-
 
 
 

@@ -22,52 +22,27 @@
 
 ---
 
-### <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"> System Info
-
-```bash
-                   -`                    ychun816@github
-                  .o+`                   ───────────────────
-                 `ooo/                   OS: École 42 Paris 🎓
-                `+oooo:                  Host: DevOps & Cloud Engineering
-               `+oooooo:                 Kernel: Learning & Building
-               -+oooooo+:                Uptime: Always coding
-             `/:-:++oooo+:               Shell: bash, zsh
-            `/++++/+++++++:              Resolution: Problem Solver
-           `/++++++++++++++:             DE: VSCode, Vim
-          `/+++ooooooooooooo/`           Theme: Nord, Dracula
-         ./ooosssso++osssssso+`          Icons: Font Awesome
-        .oossssso-````/ossssss+`         Terminal: iTerm2, Alacritty
-       -osssssso.      :ssssssso.        CPU: Continuous Learning
-      :osssssss/        osssso+++.       GPU: Creative Problem Solving
-     /ossssssss/        +ssssooo/-       Memory: Unlimited Curiosity
-   `/ossssso+/:-        -:/+osssso+-     Disk: Full of Projects
-  `+sso+:-`                 `.-/+oso:    Network: Always Connected
- `++:.                           `-/+/   
- .`                                 `/   
-```
-
----
-
 ### <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> My Skills & Tools
 
-![C](https://img.shields.io/badge/C-Learned-B4E7CE?style=flat-square&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-Intermediate-E6B8E7?style=flat-square&logo=cplusplus&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-Learned-D4B5E8?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-Learned-FFB3BA?style=flat-square&logo=javascript&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-Learned-BFEFFF?style=flat-square&logo=gnubash&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-Learned-C5A3E8?style=flat-square&logo=docker&logoColor=white)
-![Docker Compose](https://img.shields.io/badge/Docker%20Compose-Learned-FFD4D4?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-Learned-AED9E0?style=flat-square&logo=kubernetes&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-Learned-DCC6E8?style=flat-square&logo=githubactions&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-Learned-FFC4D6?style=flat-square&logo=linux&logoColor=white)
-![NGINX](https://img.shields.io/badge/NGINX-Learned-B8E6CF?style=flat-square&logo=nginx&logoColor=white)
-![Apache](https://img.shields.io/badge/Apache-Learned-E8D4F0?style=flat-square&logo=apache&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-Learned-FFCCE0?style=flat-square&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-Learned-C2E7FF?style=flat-square&logo=grafana&logoColor=white)
+![C](https://img.shields.io/badge/C-Learned-B4E7CE?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-Intermediate-E6B8E7?style=for-the-badge&logo=cplusplus&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-Learned-D4B5E8?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-Learned-FFB3BA?style=for-the-badge&logo=javascript&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-Learned-BFEFFF?style=for-the-badge&logo=gnubash&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-Learned-C5A3E8?style=for-the-badge&logo=docker&logoColor=white)
+![Docker Compose](https://img.shields.io/badge/Docker%20Compose-Learned-FFD4D4?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-Learned-AED9E0?style=for-the-badge&logo=kubernetes&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-Learned-DCC6E8?style=for-the-badge&logo=githubactions&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-Learned-FFC4D6?style=for-the-badge&logo=linux&logoColor=white)
+![NGINX](https://img.shields.io/badge/NGINX-Learned-B8E6CF?style=for-the-badge&logo=nginx&logoColor=white)
+![Apache](https://img.shields.io/badge/Apache-Learned-E8D4F0?style=for-the-badge&logo=apache&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-Learned-FFCCE0?style=for-the-badge&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-Learned-C2E7FF?style=for-the-badge&logo=grafana&logoColor=white)
 
 ---
 
 ### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Thanks for Visiting!
+
 
 <div align="center">
   
@@ -76,14 +51,24 @@
 </div>
 
 <div align="center">
+
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=599D02&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Thanks+for+stopping+by!+✨;Let's+build+something+amazing+together!+🚀;Feel+free+to+explore+my+repositories!+💻)
+
+</div>
+
+<div align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
 
----
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=ychun816&color=blueviolet&style=flat-square&label=Profile+Views)
+
+</div>
 
 <div align="center">
-  
-[![Visitor Count](https://profile-counter.glitch.me/ychun816/count.svg)](https://github.com/ychun816)
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,14,16,18,20&height=2"/>
 
 </div>
 

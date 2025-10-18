@@ -5,6 +5,7 @@
 </div>
 
 <div align="center">
+  
 ### <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="25"> About Me
 <!-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Glowing%20Star.png" width="25"> -->
 <!-- ### <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="25">  About Me 🌻 --> 
@@ -12,6 +13,7 @@
 - 👨‍🎓 Actively looking for Internship/Alternance opportunities in DevOps or Cloud
 - 📋 Visit my portfolio at [LinkedIn](https://www.linkedin.com/in/sophia-lin-profile/)
 <!--📋 Visit my portfolio at My website-->
+
 </div>
 
 <div align="center">
@@ -28,6 +30,7 @@
 </div>
 
 <div align="center">
+  
 ### <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> My Skills & Tools
 
 #### Languages

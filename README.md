@@ -14,11 +14,13 @@
 - 📋 Visit my portfolio at [LinkedIn](https://www.linkedin.com/in/sophia-lin-profile/)
 <!--📋 Visit my portfolio at My website-->
 
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,14,16,18,20&height=2"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,14,16,18,20&height=2&width=100"/>
 
 </div>
+
 
 
 <div align="center">
@@ -79,7 +81,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,14,16,18,20&height=2"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,14,16,18,20&height=2&&width=100"/>
 
 </div>
 

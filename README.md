@@ -56,10 +56,6 @@
 <!-- <img src="./assets/github-snake.svg" alt="Snake animation" /> -->
 </div> 
 
-<div align="center">
-<!-- Snake Dark Mode -->
-<img src="./assets/github-snake-dark.svg" alt="Snake animation dark" />
-</div>
 
 <div align="center">
 <!-- 3D Contribution Skyline -->
@@ -78,6 +74,12 @@
 
 ---
 <div align="center">
+<!-- Snake Dark Mode -->
+<img src="./assets/github-snake-dark.svg" alt="Snake animation dark" />
+</div>
+---
+
+<div align="center">
   
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=chunchun)
 ![GitHub followers](https://img.shields.io/github/followers/ychun816?style=social)
@@ -91,11 +93,6 @@
 
 </div>
 
-
-
-
-
--->
 
 
 

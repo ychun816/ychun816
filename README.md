@@ -47,15 +47,9 @@
 
 ---
 
-<!-- Language Stats Pie Chart -->
-<div align="center">
-<img src="https://raw.githubusercontent.com/ychun816/ychun816/master/metrics.plugin.languages.svg" alt="Languages" width="400">
-</div>
-
 <div align="center">
 <!-- Snake eating contributions -->
 <img src="https://raw.githubusercontent.com/ychun816/ychun816/master/assets/github-snake.svg" alt="Snake animation" />
-
 </div>
 
 <div align="center">

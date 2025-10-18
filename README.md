@@ -42,34 +42,6 @@
 
 ---
 
-### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Thanks for Visiting!
-
-
-### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Thanks for Visiting!
-
-<div align="center">
-
-<!-- Flying Butterflies SVG -->
-<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/images/butterflies.gif" width="400">
-
-</div>
-
-<div align="center">
-
-<!-- Blooming Flowers Effect -->
-![Flower](https://capsule-render.vercel.app/api?type=transparent&fontColor=FF69B4&text=🌸🌺🌸🌺🌸&height=100&fontSize=60&desc=Thanks%20for%20stopping%20by!&descAlignY=75&descAlign=50)
-
-</div>
-
-<div align="center">
-
-<!-- Sparkling Stars -->
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&multiline=true&width=600&height=100&lines=✨+⭐+✨+⭐+✨+⭐+✨+⭐+✨;Let's+build+something+amazing+together!+🚀;Feel+free+to+explore+my+repositories!+💻)
-
-</div>
-
----
-
 ### 🎮 GitHub Metrics & Animations
 
 <div align="center">

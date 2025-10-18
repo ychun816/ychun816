@@ -48,20 +48,6 @@
 </div>
 
 <div align="center">
-
-<!-- Blooming Flowers Effect -->
-![Flower](https://capsule-render.vercel.app/api?type=transparent&fontColor=FF69B4&text=🌸🌺🌸🌺🌸&height=100&fontSize=60&desc=Thanks%20for%20stopping%20by!&descAlignY=75&descAlign=50)
-
-</div>
-
-<div align="center">
-
-<!-- Sparkling Stars -->
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&multiline=true&width=600&height=100&lines=✨+⭐+✨+⭐+✨+⭐+✨+⭐+✨;Let's+build+something+amazing+together!+🚀;Feel+free+to+explore+my+repositories!+💻)
-
-</div>
-
-<div align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
 

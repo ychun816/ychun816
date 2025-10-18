@@ -1,20 +1,110 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Josefin+Sans&duration=4000&pause=3000&color=599D02&center=true&width=435&lines=Hi+%F0%9F%91%8B+I'm+Yi-Chun+LIN!+Welcome+to+my+Github!)](https://readme-typing-svg.herokuapp.com?font=Josefin+Sans&duration=4000&pause=3000&color=599D02&center=true&width=435&lines=Hi+%F0%9F%91%8B+I'm+Yi-Chun+LIN!+Welcome+to+my+Github!)
+```markdown
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Josefin+Sans&duration=4000&pause=3000&color=599D02&center=true&width=435&lines=Hi+%F0%9F%91%8B+I'm+Yi-Chun+LIN!+Welcome+to+my+Github!)](https://git.io/typing-svg)
+
+</div>
+
+### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> About Me
+
+- 🏫 Student from École 42 Paris
+- 👨‍🎓 Actively looking for Internship/Alternance opportunities in DevOps or Cloud
+- 📋 Visit my portfolio at [LinkedIn](https://www.linkedin.com/in/sophia-lin-profile/)
+
+---
+
+### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> GitHub Statistics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ychun816&show_icons=true&theme=nord&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ychun816&layout=compact&theme=nord&langs_count=8"/>
+</div>
+
+---
+
+### <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"> System Info
+
+```bash
+                   -`                    ychun816@github
+                  .o+`                   ───────────────────
+                 `ooo/                   OS: École 42 Paris 🎓
+                `+oooo:                  Host: DevOps & Cloud Engineering
+               `+oooooo:                 Kernel: Learning & Building
+               -+oooooo+:                Uptime: Always coding
+             `/:-:++oooo+:               Shell: bash, zsh
+            `/++++/+++++++:              Resolution: Problem Solver
+           `/++++++++++++++:             DE: VSCode, Vim
+          `/+++ooooooooooooo/`           Theme: Nord, Dracula
+         ./ooosssso++osssssso+`          Icons: Font Awesome
+        .oossssso-````/ossssss+`         Terminal: iTerm2, Alacritty
+       -osssssso.      :ssssssso.        CPU: Continuous Learning
+      :osssssss/        osssso+++.       GPU: Creative Problem Solving
+     /ossssssss/        +ssssooo/-       Memory: Unlimited Curiosity
+   `/ossssso+/:-        -:/+osssso+-     Disk: Full of Projects
+  `+sso+:-`                 `.-/+oso:    Network: Always Connected
+ `++:.                           `-/+/   
+ .`                                 `/   
+```
+
+---
+
+### <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> My Skills & Tools
+
+![C](https://img.shields.io/badge/C-Learned-B4E7CE?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-Intermediate-E6B8E7?style=flat-square&logo=cplusplus&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-Learned-D4B5E8?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-Learned-FFB3BA?style=flat-square&logo=javascript&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-Learned-BFEFFF?style=flat-square&logo=gnubash&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-Learned-C5A3E8?style=flat-square&logo=docker&logoColor=white)
+![Docker Compose](https://img.shields.io/badge/Docker%20Compose-Learned-FFD4D4?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-Learned-AED9E0?style=flat-square&logo=kubernetes&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-Learned-DCC6E8?style=flat-square&logo=githubactions&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-Learned-FFC4D6?style=flat-square&logo=linux&logoColor=white)
+![NGINX](https://img.shields.io/badge/NGINX-Learned-B8E6CF?style=flat-square&logo=nginx&logoColor=white)
+![Apache](https://img.shields.io/badge/Apache-Learned-E8D4F0?style=flat-square&logo=apache&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-Learned-FFCCE0?style=flat-square&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-Learned-C2E7FF?style=flat-square&logo=grafana&logoColor=white)
+
+---
+
+### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Thanks for Visiting!
+
+<div align="center">
+  
+![Wave](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16,18,20&height=150&section=footer&text=Keep%20Coding!&fontSize=40&fontAlignY=70&animation=twinkling)
+
+</div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</div>
+
+---
+
+<div align="center">
+  
+[![Visitor Count](https://profile-counter.glitch.me/ychun816/count.svg)](https://github.com/ychun816)
+
+</div>
+```
+
+
+
+
+<!--[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Josefin+Sans&duration=4000&pause=3000&color=599D02&center=true&width=435&lines=Hi+%F0%9F%91%8B+I'm+Yi-Chun+LIN!+Welcome+to+my+Github!)](https://readme-typing-svg.herokuapp.com?font=Josefin+Sans&duration=4000&pause=3000&color=599D02&center=true&width=435&lines=Hi+%F0%9F%91%8B+I'm+Yi-Chun+LIN!+Welcome+to+my+Github!)
 
 - 🏫 Student from École 42 Paris.
 - 👨‍🎓 Actively looking for Internship/Alternance opportunities in DevOps or Cloud
 - 📋 Visit my portfolio at [Linkedin](https://www.linkedin.com/in/sophia-lin-profile/)
 <!--📋 Visit my portfolio at My website-->
-
+<!--
 ![Yichun's GitHub stats](https://github-readme-stats.vercel.app/api?username=ychun816&show_icons=true&theme=nord&layout=compact)
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ychun816&layout=compact&theme=nord)
 
-<!--
-https://carbon.now.sh/?bg=rgba%28171%2C+184%2C+195%2C+1%29&t=seti&wt=none&l=auto&width=680&ds=true&dsyoff=20px&dsblur=68px&wc=true&wa=true&pv=56px&ph=56px&ln=false&fl=1&fm=Hack&fs=14px&lh=133%25&si=false&es=2x&wm=false
--->
 
-<!--
-![Neofetch Output](./neofetch.svg)
--->
+
+
+
 
 ### 🛠 My Skills & Tools
 
@@ -32,6 +122,9 @@ https://carbon.now.sh/?bg=rgba%28171%2C+184%2C+195%2C+1%29&t=seti&wt=none&l=auto
 ![Apache](https://img.shields.io/badge/Apache-Learned-B19CD9?style=flat-square)
 ![Prometheus](https://img.shields.io/badge/Prometheus-Learned-FFD1DC?style=flat-square)
 ![Grafana](https://img.shields.io/badge/Grafana-Learned-ADD8E6?style=flat-square)
+->
+
+
 
 <!--
 chunchun@github

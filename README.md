@@ -6,6 +6,7 @@
 </div>
 
 ### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> About Me
+### <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30"> About Me
 
 - 🏫 Student from École 42 Paris
 - 👨‍🎓 Actively looking for Internship/Alternance opportunities in DevOps or Cloud
@@ -14,6 +15,7 @@
 ---
 
 ### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> GitHub Statistics
+### <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"> System Info
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ychun816&show_icons=true&theme=nord&include_all_commits=true&count_private=true"/>
@@ -23,7 +25,7 @@
 ---
 
 ### <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> My Skills & Tools
-
+### <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> My Skills & Tools
 
 ![C](https://img.shields.io/badge/C-Learned-B4E7CE?style=flat&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-Intermediate-E6B8E7?style=flat&logo=cplusplus&logoColor=white)
@@ -43,6 +45,7 @@
 ---
 
 ### 🎮 GitHub Metrics & Animations
+### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Thanks for Visiting!
 
 <div align="center">
 

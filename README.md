@@ -107,12 +107,7 @@
 
 </div>
 
-<div align="center">
 
-<!-- GitHub Trophies -->
-<img src="https://github-profile-trophy.vercel.app/?username=ychun816&theme=nord&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
-
-</div>
 
 <div align="center">
 
@@ -125,7 +120,7 @@
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,14,16,18,20&height=2"/>
-
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=chunchun)
 </div>
 
 
@@ -196,7 +191,6 @@ Location: Paris, FR
 <span style="color:#50fa7b;">Discord:</span> chunchun#1234
 </pre>
 -->
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=chunchun)
 
 <!--
 ![GitHub Snake](https://github.com/chunchun/chunchun/blob/output/github-contribution-grid-snake.svg)

@@ -183,3 +183,4 @@ jobs:
           git add assets/
           git diff --quiet && git diff --staged --quiet || git commit -m "Update stats"
           git push
+          

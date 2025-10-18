@@ -6,7 +6,7 @@
 </div>
 
 <!-- ### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> About Me -->
-### <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30"> About Me
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Glowing%20Star.png" width="25"> About Me
 
 - 🏫 Student from École 42 Paris
 - 👨‍🎓 Actively looking for Internship/Alternance opportunities in DevOps or Cloud

@@ -109,7 +109,6 @@
 
 <div align="center">
 
-![Visitors](https://img.shields.io/badge/visitors-12345-blue?style=for-the-badge)
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=chunchun)
 ![GitHub followers](https://img.shields.io/github/followers/ychun816?style=social)
 ![GitHub stars](https://img.shields.io/github/stars/ychun816?style=social)

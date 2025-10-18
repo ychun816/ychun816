@@ -6,13 +6,9 @@
 </div>
 
 ### <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDRzZ3k3bnVqN2F5MHN4cWZ5dGt6aGJsY3RwMzJ5YjNmcTZ6bXF6ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/l4FGp6wKxMULYD1zq/giphy.gif" width="30"> About Me
-### <img src="https://media.giphy.com/media/iJa6kOfJ3qN7a/giphy.gif" width="30"> GitHub Statistics
-### <img src="https://media.giphy.com/media/26tPqTOGf3eLNturC/giphy.gif" width="28"> System Info
-### <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="25"> My Skills & Tools
-### <img src="https://media.giphy.com/media/xUOwGhOrYP0jP6iAy4/giphy.gif" width="28"> Thanks for Visiting!
-
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Glowing%20Star.png" width="25"> About Me
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDRzZ3k3bnVqN2F5MHN4cWZ5dGt6aGJsY3RwMzJ5YjNmcTZ6bXF6ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/l4FGp6wKxMULYD1zq/giphy.gif" width="30">
 <!-- ### <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="25">  About Me -->
 - 🏫 Student from École 42 Paris
 - 👨‍🎓 Actively looking for Internship/Alternance opportunities in DevOps or Cloud

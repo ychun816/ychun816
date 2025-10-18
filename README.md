@@ -5,12 +5,13 @@
 
 </div>
 
-### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> About Me
+<!-- ### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> About Me -->
 ### <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30"> About Me
 
 - 🏫 Student from École 42 Paris
 - 👨‍🎓 Actively looking for Internship/Alternance opportunities in DevOps or Cloud
 - 📋 Visit my portfolio at [LinkedIn](https://www.linkedin.com/in/sophia-lin-profile/)
+<!--📋 Visit my portfolio at My website-->
 
 ---
 
@@ -41,9 +42,6 @@
 ![Grafana](https://img.shields.io/badge/Grafana-Learned-C2E7FF?style=flat&logo=grafana&logoColor=white)
 
 ---
-
-### 🎮 GitHub Metrics & Animations
-### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Thanks for Visiting!
 
 <div align="center">
 
@@ -112,7 +110,7 @@
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=ychun816&color=blueviolet&style=flat-square&label=Profile+Views)
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=chunchun)
 ![GitHub followers](https://img.shields.io/github/followers/ychun816?style=social)
 ![GitHub stars](https://img.shields.io/github/stars/ychun816?style=social)
 
@@ -124,7 +122,7 @@
 
 </div>
 
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=chunchun)
+
 
 
 

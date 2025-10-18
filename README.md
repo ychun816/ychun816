@@ -44,6 +44,9 @@
 
 ### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Thanks for Visiting!
 
+
+### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Thanks for Visiting!
+
 <div align="center">
 
 <!-- Flying Butterflies SVG -->
@@ -67,12 +70,54 @@
 
 ---
 
-### 🎮 Contribution Animations
+### 🎮 GitHub Metrics & Animations
+
+<div align="center">
+
+<!-- GitHub Metrics - Comprehensive Stats -->
+<img src="https://raw.githubusercontent.com/ychun816/ychun816/main/github-metrics.svg" alt="Metrics" width="100%">
+
+</div>
+
+<div align="center">
+
+<!-- Isometric Calendar View -->
+<img src="https://raw.githubusercontent.com/ychun816/ychun816/main/metrics.plugin.isocalendar.svg" alt="Isometric Calendar" width="100%">
+
+</div>
+
+<div align="center">
+
+<!-- Language Stats Pie Chart -->
+<img src="https://raw.githubusercontent.com/ychun816/ychun816/main/metrics.plugin.languages.svg" alt="Languages" width="400">
+
+</div>
 
 <div align="center">
 
 <!-- Snake eating contributions -->
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/ychun816/ychun816/main/assets/github-snake.svg" alt="Snake animation" />
+
+</div>
+
+<div align="center">
+
+<!-- Snake Dark Mode -->
+<img src="https://raw.githubusercontent.com/ychun816/ychun816/main/assets/github-snake-dark.svg" alt="Snake animation dark" />
+
+</div>
+
+<div align="center">
+
+<!-- 3D Contribution Skyline -->
+<img src="https://raw.githubusercontent.com/ychun816/ychun816/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contributions" />
+
+</div>
+
+<div align="center">
+
+<!-- User Statistician - Detailed Stats -->
+<img src="https://raw.githubusercontent.com/ychun816/ychun816/main/images/userstats.svg" alt="User Stats" width="100%">
 
 </div>
 
@@ -94,17 +139,6 @@
 
 <!-- GitHub Trophies -->
 <img src="https://github-profile-trophy.vercel.app/?username=ychun816&theme=nord&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
-
-</div>
-
----
-
-### 🌟 More Stats & Badges
-
-<div align="center">
-
-<!-- Animated Contributions Skyline -->
-![3D Skyline](https://raw.githubusercontent.com/ychun816/ychun816/main/profile-3d-contrib/profile-night-rainbow.svg)
 
 </div>
 

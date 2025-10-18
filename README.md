@@ -77,7 +77,12 @@
 <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=ychun816&theme=nord&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" /> -->
 </div>
 
----
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,14,16,18,20&height=2"/>
+
+</div>
+
 <div align="center">
 <!-- Snake Dark Mode -->
 <img src="./assets/github-snake-dark.svg" alt="Snake animation dark" />
@@ -89,12 +94,6 @@
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=chunchun)
 ![GitHub followers](https://img.shields.io/github/followers/ychun816?style=social)
 ![GitHub stars](https://img.shields.io/github/stars/ychun816?style=social)
-
-</div>
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,14,16,18,20&height=2"/>
 
 </div>
 

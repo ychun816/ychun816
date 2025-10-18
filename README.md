@@ -4,12 +4,6 @@
 
 </div>
 
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,14,16,18,20&height=2"/>
-
-</div>
-
 ### <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="25"> About Me
 <!-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Glowing%20Star.png" width="25"> -->
 <!-- ### <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="25">  About Me 🌻 --> 
@@ -18,7 +12,11 @@
 - 📋 Visit my portfolio at [LinkedIn](https://www.linkedin.com/in/sophia-lin-profile/)
 <!--📋 Visit my portfolio at My website-->
 
----
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,14,16,18,20&height=2"/>
+
+</div>
 
 ### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> GitHub Statistics
 
@@ -27,7 +25,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ychun816&layout=compact&theme=nord&langs_count=8"/>
 </div>
 
----
 
 ### <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> My Skills & Tools
 
@@ -54,7 +51,6 @@
 ![Prometheus](https://img.shields.io/badge/Prometheus-Learned-FFCCE0?style=flat&logo=prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-Learned-C2E7FF?style=flat&logo=grafana&logoColor=white)
 
----
 
 <div align="center">
 <!-- Snake eating contributions -->
@@ -88,6 +84,7 @@
 <img src="./assets/github-snake-dark.svg" alt="Snake animation dark" />
 </div>
 
+</br>
 
 <div align="center">
   

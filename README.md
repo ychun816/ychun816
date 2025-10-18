@@ -49,17 +49,17 @@
 
 <div align="center">
 <!-- Snake eating contributions -->
-<img src="https://raw.githubusercontent.com/ychun816/ychun816/master/assets/github-snake.svg" alt="Snake animation" />
+<img src="./assets/github-snake.svg" alt="Snake animation" />
 </div>
 
 <div align="center">
 <!-- Snake Dark Mode -->
-<img src="https://raw.githubusercontent.com/ychun816/ychun816/master/assets/github-snake-dark.svg" alt="Snake animation dark" />
+<img src="./assets/github-snake-dark.svg" alt="Snake animation dark" />
 </div>
 
 <div align="center">
 <!-- 3D Contribution Skyline -->
-<img src="https://raw.githubusercontent.com/ychun816/ychun816/master/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contributions" />
+<img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contributions" />
 </div>
 
 <div align="center">
@@ -74,11 +74,6 @@
 <!-- Streak Stats with Fire Animation -->
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ychun816&theme=nord&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
 
-</div>
-
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/ychun816/ychun816/main/assets/github-snake.svg" alt="Snake animation" />
 </div>
 
 <div align="center">

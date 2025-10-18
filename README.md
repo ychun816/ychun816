@@ -25,35 +25,94 @@
 ### <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> My Skills & Tools
 
 
-![C](https://img.shields.io/badge/C-Learned-B4E7CE?style=plastic&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-Intermediate-E6B8E7?style=plastic&logo=cplusplus&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-Learned-D4B5E8?style=plastic&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-Learned-FFB3BA?style=plastic&logo=javascript&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-Learned-BFEFFF?style=plastic&logo=gnubash&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-Learned-C5A3E8?style=plastic&logo=docker&logoColor=white)
-![Docker Compose](https://img.shields.io/badge/Docker%20Compose-Learned-FFD4D4?style=plastic&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-Learned-AED9E0?style=plastic&logo=kubernetes&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-Learned-DCC6E8?style=plastic&logo=githubactions&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-Learned-FFC4D6?style=plastic&logo=linux&logoColor=white)
-![NGINX](https://img.shields.io/badge/NGINX-Learned-B8E6CF?style=plastic&logo=nginx&logoColor=white)
-![Apache](https://img.shields.io/badge/Apache-Learned-E8D4F0?style=plastic&logo=apache&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-Learned-FFCCE0?style=plastic&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-Learned-C2E7FF?style=plastic&logo=grafana&logoColor=white)
+![C](https://img.shields.io/badge/C-Learned-B4E7CE?style=flat&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-Intermediate-E6B8E7?style=flat&logo=cplusplus&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-Learned-D4B5E8?style=flat&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-Learned-FFB3BA?style=flat&logo=javascript&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-Learned-BFEFFF?style=flat&logo=gnubash&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-Learned-C5A3E8?style=flat&logo=docker&logoColor=white)
+![Docker Compose](https://img.shields.io/badge/Docker%20Compose-Learned-FFD4D4?style=flat&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-Learned-AED9E0?style=flat&logo=kubernetes&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-Learned-DCC6E8?style=flat&logo=githubactions&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-Learned-FFC4D6?style=flat&logo=linux&logoColor=white)
+![NGINX](https://img.shields.io/badge/NGINX-Learned-B8E6CF?style=flat&logo=nginx&logoColor=white)
+![Apache](https://img.shields.io/badge/Apache-Learned-E8D4F0?style=flat&logo=apache&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-Learned-FFCCE0?style=flat&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-Learned-C2E7FF?style=flat&logo=grafana&logoColor=white)
 
 ---
 
 ### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Thanks for Visiting!
 
+<div align="center">
+
+<!-- Flying Butterflies SVG -->
+<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/images/butterflies.gif" width="400">
 
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+
+<!-- Blooming Flowers Effect -->
+![Flower](https://capsule-render.vercel.app/api?type=transparent&fontColor=FF69B4&text=🌸🌺🌸🌺🌸&height=100&fontSize=60&desc=Thanks%20for%20stopping%20by!&descAlignY=75&descAlign=50)
+
+</div>
+
+<div align="center">
+
+<!-- Sparkling Stars -->
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&multiline=true&width=600&height=100&lines=✨+⭐+✨+⭐+✨+⭐+✨+⭐+✨;Let's+build+something+amazing+together!+🚀;Feel+free+to+explore+my+repositories!+💻)
+
+</div>
+
+---
+
+### 🎮 Contribution Animations
+
+<div align="center">
+
+<!-- Snake eating contributions -->
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+
+</div>
+
+<div align="center">
+
+<!-- GitHub Activity Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ychun816&theme=nord&hide_border=true&area=true" width="100%">
+
+</div>
+
+<div align="center">
+
+<!-- Streak Stats with Fire Animation -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ychun816&theme=nord&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+
+</div>
+
+<div align="center">
+
+<!-- GitHub Trophies -->
+<img src="https://github-profile-trophy.vercel.app/?username=ychun816&theme=nord&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+
+</div>
+
+---
+
+### 🌟 More Stats & Badges
+
+<div align="center">
+
+<!-- Animated Contributions Skyline -->
+![3D Skyline](https://raw.githubusercontent.com/ychun816/ychun816/main/profile-3d-contrib/profile-night-rainbow.svg)
+
 </div>
 
 <div align="center">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ychun816&color=blueviolet&style=flat-square&label=Profile+Views)
+![GitHub followers](https://img.shields.io/github/followers/ychun816?style=social)
+![GitHub stars](https://img.shields.io/github/stars/ychun816?style=social)
 
 </div>
 

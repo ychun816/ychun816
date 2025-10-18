@@ -47,53 +47,25 @@
 
 ---
 
-<div align="center">
-
-<!-- GitHub Metrics - Comprehensive Stats -->
-<img src="https://raw.githubusercontent.com/ychun816/ychun816/master/github-metrics.svg" alt="Metrics" width="100%">
-
-</div>
-
-<div align="center">
-
-<!-- Isometric Calendar View -->
-<img src="https://raw.githubusercontent.com/ychun816/ychun816/master/metrics.plugin.isocalendar.svg" alt="Isometric Calendar" width="100%">
-
-</div>
-
-<div align="center">
-
 <!-- Language Stats Pie Chart -->
+<div align="center">
 <img src="https://raw.githubusercontent.com/ychun816/ychun816/master/metrics.plugin.languages.svg" alt="Languages" width="400">
-
 </div>
 
 <div align="center">
-
 <!-- Snake eating contributions -->
 <img src="https://raw.githubusercontent.com/ychun816/ychun816/master/assets/github-snake.svg" alt="Snake animation" />
 
 </div>
 
 <div align="center">
-
 <!-- Snake Dark Mode -->
 <img src="https://raw.githubusercontent.com/ychun816/ychun816/master/assets/github-snake-dark.svg" alt="Snake animation dark" />
-
 </div>
 
 <div align="center">
-
 <!-- 3D Contribution Skyline -->
 <img src="https://raw.githubusercontent.com/ychun816/ychun816/master/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contributions" />
-
-</div>
-
-<div align="center">
-
-<!-- User Statistician - Detailed Stats -->
-<img src="https://raw.githubusercontent.com/ychun816/ychun816/master/images/userstats.svg" alt="User Stats" width="100%">
-
 </div>
 
 <div align="center">
@@ -101,7 +73,7 @@
 <!-- GitHub Activity Graph -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ychun816&theme=nord&hide_border=true&area=true" width="100%">
 
-</div>
+</div> 
 
 <div align="center">
 
@@ -111,6 +83,9 @@
 </div>
 
 
+<div align="center">
+<img src="https://raw.githubusercontent.com/ychun816/ychun816/main/assets/github-snake.svg" alt="Snake animation" />
+</div>
 
 <div align="center">
 
@@ -139,11 +114,6 @@
 <!--
 ![Yichun's GitHub stats](https://github-readme-stats.vercel.app/api?username=ychun816&show_icons=true&theme=nord&layout=compact)
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ychun816&layout=compact&theme=nord)
-
-
-
-
-
 
 ### 🛠 My Skills & Tools
 

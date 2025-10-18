@@ -36,7 +36,7 @@
 
 <!-- Pastel Pie Chart for Languages -->
 <div align="center">
-  <img src="./metrics.plugin.languages.svg" alt="Languages Pie Chart" />
+  
 </div>
 
 #### Tools

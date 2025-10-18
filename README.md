@@ -4,7 +4,7 @@
 
 </div>
 
-<div align="center">
+
   
 ### <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="25"> About Me
 <!-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Glowing%20Star.png" width="25"> -->
@@ -14,7 +14,7 @@
 - 📋 Visit my portfolio at [LinkedIn](https://www.linkedin.com/in/sophia-lin-profile/)
 <!--📋 Visit my portfolio at My website-->
 
-</div>
+
 
 <div align="center">
 

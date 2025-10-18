@@ -1,4 +1,3 @@
-
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Josefin+Sans&duration=4000&pause=3000&color=599D02&center=true&width=435&lines=Hi+%F0%9F%91%8B+I'm+Yi-Chun+LIN!+Welcome+to+my+Github!)](https://git.io/typing-svg)
@@ -34,6 +33,11 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-Learned-FFB3BA?style=flat&logo=javascript&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-Learned-BFEFFF?style=flat&logo=gnubash&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-Learned-FFC4D6?style=flat&logo=linux&logoColor=white)
+
+<!-- Pastel Pie Chart for Languages -->
+<div align="center">
+  <img src="./metrics.plugin.languages.svg" alt="Languages Pie Chart" />
+</div>
 
 #### Tools
 ![Docker](https://img.shields.io/badge/Docker-Learned-C5A3E8?style=flat&logo=docker&logoColor=white)

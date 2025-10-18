@@ -7,7 +7,6 @@
 
 ### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> About Me
 ### <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30"> About Me
-### <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDRzZ3k3bnVqN2F5MHN4cWZ5dGt6aGJsY3RwMzJ5YjNmcTZ6bXF6ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/l4FGp6wKxMULYD1zq/giphy.gif" width="30"> About Me
 
 - 🏫 Student from École 42 Paris
 - 👨‍🎓 Actively looking for Internship/Alternance opportunities in DevOps or Cloud
@@ -16,9 +15,6 @@
 ---
 
 ### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> GitHub Statistics
-### <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"> System Info
-### <img src="https://media.giphy.com/media/iJa6kOfJ3qN7a/giphy.gif" width="30"> GitHub Statistics
-### <img src="https://media.giphy.com/media/26tPqTOGf3eLNturC/giphy.gif" width="28"> System Info
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ychun816&show_icons=true&theme=nord&include_all_commits=true&count_private=true"/>
@@ -28,9 +24,6 @@
 ---
 
 ### <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> My Skills & Tools
-### <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> My Skills & Tools
-### <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="25"> My Skills & Tools
-### <img src="https://media.giphy.com/media/xUOwGhOrYP0jP6iAy4/giphy.gif" width="28"> Thanks for Visiting!
 
 ![C](https://img.shields.io/badge/C-Learned-B4E7CE?style=flat&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-Intermediate-E6B8E7?style=flat&logo=cplusplus&logoColor=white)

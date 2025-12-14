@@ -48,10 +48,13 @@
 ![Linux](https://img.shields.io/badge/Linux-Learned-FFC4D6?style=flat&logo=linux&logoColor=white)
 
 #### Tools
+![AWS](https://img.shields.io/badge/AWS-Learning-C2E7FF?style=flat&logo=AWS&logoColor=white)
+![Terrafrom](https://img.shields.io/badge/Terrafrom-Learned-AED9E0?style=flat&logo=terrafrom&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-Learning-C5A3E8?style=flat&logo=ansible&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-Learned-C5A3E8?style=flat&logo=docker&logoColor=white)
 ![Docker Compose](https://img.shields.io/badge/Docker%20Compose-Learned-FFD4D4?style=flat&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-Learned-AED9E0?style=flat&logo=kubernetes&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-Learned-DCC6E8?style=flat&logo=githubactions&logoColor=white)
+
 ![NGINX](https://img.shields.io/badge/NGINX-Learned-B8E6CF?style=flat&logo=nginx&logoColor=white)
 ![Apache](https://img.shields.io/badge/Apache-Learned-E8D4F0?style=flat&logo=apache&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/Prometheus-Learned-FFCCE0?style=flat&logo=prometheus&logoColor=white)

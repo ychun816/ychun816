@@ -100,14 +100,14 @@
 
 | Project | Description |
 | :--- | :--- |
-| **[Cloud-1](https://github.com/ychun816/cloud-1)** | ☁️ Introduction to virtualization and Docker Swarm deployment. |
-| **Inception of Things** | ☸️ Exploring Kubernetes clusters (K3s) and orchestration. |
-| **[Inception](https://github.com/ychun816/inception)** | 🐳 System administration and service containerization with Docker. |
-| **[Webserv](https://github.com/ychun816/webserv)** | 🌐 Writing a functional HTTP server from scratch in C++. |
-| **[Monitoring System](https://github.com/ychun816/FT_transcendence-monitoring-system)** | 📊 Observability pipeline using Prometheus and Grafana. |
-| **[2FA Auth](https://github.com/ychun816/Ft_transcendence-2FA-Authentication)** | 🔐 Secure Two-Factor Authentication implementation. |
-| **[Portfolio](https://github.com/ychun816/portfolio)** | 🎀 My personal showcase deployed on the Cloud. |
-| **[Python for Data Science](https://github.com/ychun816/Python-for-data-science)** | 🐍 Data manipulation and analysis with Python libraries. |
+| **[Cloud-1](https://github.com/ychun816/cloud-1)** | Deployment with AWS EC2 Cloud,Terraform, Ansible,Docker. |
+| **Inception of Things** | Exploring Kubernetes clusters (K3s) and orchestration. |
+| **[Inception](https://github.com/ychun816/inception)** | System administration and service containerization with Docker. |
+| **[Webserv](https://github.com/ychun816/webserv)** | Writing a functional HTTP server from scratch in C++. |
+| **[Monitoring System](https://github.com/ychun816/FT_transcendence-monitoring-system)** | Observability pipeline using Prometheus and Grafana. |
+| **[2FA Auth](https://github.com/ychun816/Ft_transcendence-2FA-Authentication)** | Secure Two-Factor Authentication implementation. |
+| **[Portfolio](https://github.com/ychun816/portfolio)** | My personal showcase deployed on the Cloud. |
+| **[Python for Data Science](https://github.com/ychun816/Python-for-data-science)** | Data manipulation and analysis with Python libraries. |
 
 </div>
 

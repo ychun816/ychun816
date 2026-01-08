@@ -136,14 +136,58 @@
 
 
 
-----------
 
+<!-- BACKUPS -->
+<!--
+<div align="center">
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Josefin+Sans&duration=4000&pause=3000&color=599D02&center=true&width=435&lines=Hi+%F0%9F%91%8B+I'm+Yichun+LIN!+Welcome+to+my+Github!)](https://git.io/typing-svg)
+
+</div>
+-->
+
+---
 ## testing 
 
 
 <div align="center">
 
-### <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> My Tech Stack
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=FFCCE0,C5A3E8,C2E7FF,B4E7CE&height=120&section=header"/>
+
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Josefin+Sans&weight=600&size=28&duration=4000&pause=1000&color=787586&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B+I'm+Yichun+LIN!;DevOps+%26+Cloud+Enthusiast;Student+%40+42+Paris;Welcome+to+my+world+%E2%9C%A8" alt="Typing SVG" />
+  </a>
+
+</div>
+
+<div align="center">
+
+### <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="25"> About Me
+
+<p align="center">
+  ☁️ <b>System Administration & Automation</b> enthusiast.<br/>
+  🏫 Student at <a href="https://42.fr/en/homepage/"><b>École 42 Paris</b></a>.<br/>
+  👩‍🎓 Looking for <b>Internship / Alternance</b> in DevOps or Cloud.
+</p>
+
+<p align="center">
+  <a href="https://yichun-lin-portfolio.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Visit_Site-81E29F?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/sophia-lin-profile/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-A0C4FF?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=FFCCE0,C5A3E8,C2E7FF,B4E7CE&height=2&width=300"/>
+
+### <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="22"> My Tech Stack
 
 #### 💻 Languages & Scripting
 ![C](https://img.shields.io/badge/C-C2E7FF?style=flat&logo=c&logoColor=black)
@@ -167,42 +211,56 @@
 
 </div>
 
-
 <br/>
 
-<div align="center">
-
-### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> GitHub Statistics
-
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=ychun816&show_icons=true&theme=nord&include_all_commits=true&count_private=true&hide_border=true" alt="ychun816's stats" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ychun816&layout=compact&theme=nord&langs_count=8&hide_border=true" alt="Top Languages" />
-    </td>
-  </tr>
-</table>
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,14,16,18,20&height=2&width=100%"/>
-
-<br/>
-
-
-
-<!-- BACKUPS -->
-<!--
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Josefin+Sans&duration=4000&pause=3000&color=599D02&center=true&width=435&lines=Hi+%F0%9F%91%8B+I'm+Yichun+LIN!+Welcome+to+my+Github!)](https://git.io/typing-svg)
+### 🚀 Cloud & Infrastructure Projects
+
+| Status | Project | Description |
+| :---: | :--- | :--- |
+| ![Current](https://img.shields.io/badge/FOCUS-Processing...-FFCCE0?style=flat-square) | **[Cloud-1](https://github.com/ychun816/cloud-1)** | ☁️ Introduction to virtualization and Docker Swarm deployment. |
+| ![ToDo](https://img.shields.io/badge/TODO-Upcoming-C5A3E8?style=flat-square) | **Inception of Things** | ☸️ Exploring Kubernetes clusters (K3s) and orchestration. |
+| ![Done](https://img.shields.io/badge/DONE-Completed-B4E7CE?style=flat-square) | **[Inception](https://github.com/ychun816/inception)** | 🐳 System administration and service containerization with Docker. |
+| ![Done](https://img.shields.io/badge/DONE-Completed-B4E7CE?style=flat-square) | **[Webserv](https://github.com/ychun816/webserv)** | 🌐 Writing a functional HTTP server from scratch in C++. |
+| ![Done](https://img.shields.io/badge/DONE-Completed-B4E7CE?style=flat-square) | **[Monitoring System](https://github.com/ychun816/FT_transcendence-monitoring-system)** | 📊 Observability pipeline using Prometheus and Grafana. |
+| ![Done](https://img.shields.io/badge/DONE-Completed-B4E7CE?style=flat-square) | **[2FA Auth](https://github.com/ychun816/Ft_transcendence-2FA-Authentication)** | 🔐 Secure Two-Factor Authentication implementation. |
+| ![Done](https://img.shields.io/badge/DONE-Completed-B4E7CE?style=flat-square) | **[Python for Data Science](https://github.com/ychun816/Python-for-data-science)** | 🐍 Data manipulation and analysis with Python libraries. |
+| ![Done](https://img.shields.io/badge/DONE-Completed-B4E7CE?style=flat-square) | **[Portfolio](https://github.com/ychun816/portfolio)** | 🎀 My personal showcase deployed on the Cloud. |
 
 </div>
--->
 
+<br/>
 
+<div align="center">
+  <h3>📊 GitHub Stats</h3>
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=ychun816&show_icons=true&theme=nord&include_all_commits=true&count_private=true&hide_border=true" alt="ychun816's stats" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ychun816&layout=compact&theme=nord&langs_count=8&hide_border=true" alt="Top Languages" />
+      </td>
+    </tr>
+  </table>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ychun816&theme=nord&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+</div>
 
+<br/>
+
+<div align="center">
+  <img src="./assets/github-snake.svg" alt="Snake animation" width="100%" />
+</div>
+
+<div align="center">
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contributions" width="100%" />
+</div>
+
+<div align="center">
+  <img src="./assets/github-snake-dark.svg" alt="Snake animation dark" width="100%" />
+</div>
+
+<br/>
 
 

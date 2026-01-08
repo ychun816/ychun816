@@ -3,7 +3,17 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Josefin+Sans&duration=4000&pause=3000&color=599D02&center=true&width=435&lines=Hi+%F0%9F%91%8B+I'm+Yichun+LIN!+Welcome+to+my+Github!)](https://git.io/typing-svg)
 
 </div>
+---
+<div align="center">
 
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Josefin+Sans&duration=4000&pause=1000&color=599D02&center=true&width=435&lines=Hi+%F0%9F%91%8B+I'm+Yichun+LIN!;DevOps+%26+Cloud+Enthusiast;Student+%40+42+Paris" alt="Typing SVG" />
+  </a>
+
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,14,16,18,20&height=2&width=100%"/>
+
+</div>
+---
 
   
 ### <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="25"> About Me
@@ -20,6 +30,26 @@
 
 </div>
 
+---
+
+### <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="28"> About Me
+
+- 🏫 **Student at** [École 42 Paris](https://42.fr/en/homepage/)
+- ☁️ **Focus:** System Administration, Automation, Infrastructure as Code.
+- 👨‍🎓 **Goal:** Actively looking for **Internship / Alternance** opportunities in **DevOps** or **Cloud**.
+
+<p align="left">
+  <a href="https://yichun-lin-portfolio.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Visit_Site-2ea44f?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/sophia-lin-profile/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+
+
+---
 
 
 <div align="center">

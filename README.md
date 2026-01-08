@@ -71,27 +71,6 @@
 
 ---
 
-<div align="center">
-  
-### 🚀 Cloud & Infrastructure Projects
-
-| Project | Description |
-| :--- | :--- |
-| **[Cloud-1](https://github.com/ychun816/cloud-1)** | ☁️ Introduction to virtualization and Docker Swarm deployment. |
-| **Inception of Things** | ☸️ Exploring Kubernetes clusters (K3s) and orchestration. |
-| **[Inception](https://github.com/ychun816/inception)** | 🐳 System administration and service containerization with Docker. |
-| **[Webserv](https://github.com/ychun816/webserv)** | 🌐 Writing a functional HTTP server from scratch in C++. |
-| **[Monitoring System](https://github.com/ychun816/FT_transcendence-monitoring-system)** | 📊 Observability pipeline using Prometheus and Grafana. |
-| **[2FA Auth](https://github.com/ychun816/Ft_transcendence-2FA-Authentication)** | 🔐 Secure Two-Factor Authentication implementation. |
-| **[Portfolio](https://github.com/ychun816/portfolio)** | 🎀 My personal showcase deployed on the Cloud. |
-| **[Python for Data Science](https://github.com/ychun816/Python-for-data-science)** | 🐍 Data manipulation and analysis with Python libraries. |
-
-</div>
-
-
-
----
-
 ### 📊 GitHub Statistics
 
 <div align="center">
@@ -111,30 +90,27 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ychun816&theme=nord&hide_border=true" alt="Streak Stats" />
 </div>
 
-<!--
-#### testing fix 
-
-<div align="center">
-  <table>
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=ychun816&show_icons=true&theme=nord&include_all_commits=true&count_private=true&hide_border=true" alt="ychun816's stats" />
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ychun816&layout=compact&theme=nord&langs_count=8&hide_border=true" alt="Top Languages" />
-      </td>
-    </tr>
-  </table>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ychun816&theme=nord&hide_border=true" alt="Streak Stats" />
-</div>
-
--->
 
 ---
 
+<div align="center">
+  
+### 🚀 Cloud & Infrastructure Projects
+
+| Project | Description |
+| :--- | :--- |
+| **[Cloud-1](https://github.com/ychun816/cloud-1)** | ☁️ Introduction to virtualization and Docker Swarm deployment. |
+| **Inception of Things** | ☸️ Exploring Kubernetes clusters (K3s) and orchestration. |
+| **[Inception](https://github.com/ychun816/inception)** | 🐳 System administration and service containerization with Docker. |
+| **[Webserv](https://github.com/ychun816/webserv)** | 🌐 Writing a functional HTTP server from scratch in C++. |
+| **[Monitoring System](https://github.com/ychun816/FT_transcendence-monitoring-system)** | 📊 Observability pipeline using Prometheus and Grafana. |
+| **[2FA Auth](https://github.com/ychun816/Ft_transcendence-2FA-Authentication)** | 🔐 Secure Two-Factor Authentication implementation. |
+| **[Portfolio](https://github.com/ychun816/portfolio)** | 🎀 My personal showcase deployed on the Cloud. |
+| **[Python for Data Science](https://github.com/ychun816/Python-for-data-science)** | 🐍 Data manipulation and analysis with Python libraries. |
+
+</div>
+
+---
 
 <div align="center">
 <!-- Snake eating contributions -->

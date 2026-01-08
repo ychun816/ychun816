@@ -1,10 +1,4 @@
 <div align="center">
-  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Josefin+Sans&duration=4000&pause=3000&color=599D02&center=true&width=435&lines=Hi+%F0%9F%91%8B+I'm+Yichun+LIN!+Welcome+to+my+Github!)](https://git.io/typing-svg)
-
-</div>
----
-<div align="center">
 
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Josefin+Sans&duration=4000&pause=1000&color=599D02&center=true&width=435&lines=Hi+%F0%9F%91%8B+I'm+Yichun+LIN!;DevOps+%26+Cloud+Enthusiast;Student+%40+42+Paris" alt="Typing SVG" />
@@ -14,15 +8,6 @@
 
 </div>
 ---
-
-  
-### <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="25"> About Me
-<!-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Glowing%20Star.png" width="25"> -->
-<!-- ### <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="25">  About Me 🌻 --> 
-- 🏫 Student from École 42 Paris
-- 👨‍🎓 Actively looking for Internship/Alternance opportunities in DevOps or Cloud
-- 📋 Visit my portfolio at [My website](https://yichun-lin-portfolio.vercel.app) , and [My LinkedIn](https://www.linkedin.com/in/sophia-lin-profile/) !
-
 
 <div align="center">
 
@@ -37,13 +22,14 @@
 - 🏫 **Student at** [École 42 Paris](https://42.fr/en/homepage/)
 - ☁️ **Focus:** System Administration, Automation, Infrastructure as Code.
 - 👨‍🎓 **Goal:** Actively looking for **Internship / Alternance** opportunities in **DevOps** or **Cloud**.
+- 📋 Visit my portfolio at [My website](https://yichun-lin-portfolio.vercel.app) , and [My LinkedIn](https://www.linkedin.com/in/sophia-lin-profile/) !
 
-<p align="left">
+<p align="center">
   <a href="https://yichun-lin-portfolio.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-Visit_Site-2ea44f?style=for-the-badge&logo=googlechrome&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfolio-Visit_Site-FF85A1?style=for-the-badge&logo=googlechrome&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/sophia-lin-profile/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-A0C4FF?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
@@ -217,7 +203,16 @@
 
 <br/>
 
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=ychun816.ychun816)
+
+
+<!-- BACKUPS -->
+<!--
+<div align="center">
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Josefin+Sans&duration=4000&pause=3000&color=599D02&center=true&width=435&lines=Hi+%F0%9F%91%8B+I'm+Yichun+LIN!+Welcome+to+my+Github!)](https://git.io/typing-svg)
+
+</div>
+-->
 
 
 

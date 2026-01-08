@@ -142,26 +142,27 @@
 ### <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> My Tech Stack
 
 #### 💻 Languages & Scripting
-![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![Bash](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![C](https://img.shields.io/badge/C-C2E7FF?style=flat&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C++-C2E7FF?style=flat&logo=c%2B%2B&logoColor=black)
+![Bash](https://img.shields.io/badge/GNU%20Bash-B4E7CE?style=flat&logo=gnu-bash&logoColor=black)
+![Python](https://img.shields.io/badge/Python-C2E7FF?style=flat&logo=python&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-C5A3E8?style=flat&logo=typescript&logoColor=black)
 
 #### ☁️ DevOps & Cloud
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat&logo=ansible&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![AWS](https://img.shields.io/badge/AWS-C5A3E8?style=flat&logo=amazon-aws&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-C2E7FF?style=flat&logo=docker&logoColor=black)
+![Terraform](https://img.shields.io/badge/Terraform-C5A3E8?style=flat&logo=terraform&logoColor=black)
+![Ansible](https://img.shields.io/badge/Ansible-FFCCE0?style=flat&logo=ansible&logoColor=black)
+![Linux](https://img.shields.io/badge/Linux-B4E7CE?style=flat&logo=linux&logoColor=black)
 
 #### ⚙️ CI/CD & Observability
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white)
-![NGINX](https://img.shields.io/badge/NGINX-009639?style=flat&logo=nginx&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-C2E7FF?style=flat&logo=github-actions&logoColor=black)
+![Prometheus](https://img.shields.io/badge/Prometheus-FFCCE0?style=flat&logo=prometheus&logoColor=black)
+![Grafana](https://img.shields.io/badge/Grafana-FFCCE0?style=flat&logo=grafana&logoColor=black)
+![NGINX](https://img.shields.io/badge/NGINX-B4E7CE?style=flat&logo=nginx&logoColor=black)
 
 </div>
+
 
 <br/>
 

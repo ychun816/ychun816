@@ -14,6 +14,7 @@
 
 
 <div align="left">
+  
 ### <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="28"> About Me
 
 - 🏫 **Student at** [École 42 Paris](https://42.fr/en/homepage/)
@@ -64,11 +65,31 @@
 
 <br/>
 
+---
 
+### 📊 GitHub Statistics
 
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=ychun816&show_icons=true&theme=nord&include_all_commits=true&count_private=true&hide_border=true" alt="ychun816's stats" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ychun816&layout=compact&theme=nord&langs_count=8&hide_border=true" alt="Top Languages" />
+      </td>
+    </tr>
+  </table>
+</div>
 
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ychun816&theme=nord&hide_border=true" alt="Streak Stats" />
+</div>
 
 ---
+
+
+
 
 
 <div align="center">

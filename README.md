@@ -1,5 +1,18 @@
 <div align="center">
 
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=FFCCE0,C5A3E8,C2E7FF,B4E7CE&height=120&section=header"/>
+
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Josefin+Sans&weight=600&size=28&duration=4000&pause=1000&color=787586&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B+I'm+Yichun+LIN!;DevOps+%26+Cloud+Enthusiast;Student+%40+42+Paris;Welcome+to+my+world+%E2%9C%A8" alt="Typing SVG" />
+  </a>
+
+</div>
+
+<div align="center">
+
+
+<div align="center">
+
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Josefin+Sans&duration=4000&pause=1000&color=599D02&center=true&width=435&lines=Hi+%F0%9F%91%8B+I'm+Yichun+LIN!;DevOps+%26+Cloud+Enthusiast;Student+%40+42+Paris" alt="Typing SVG" />
   </a>
@@ -23,6 +36,10 @@
 - 📋 Visit my portfolio at [My website](https://yichun-lin-portfolio.vercel.app) , and [My LinkedIn](https://www.linkedin.com/in/sophia-lin-profile/) !
 </div>
 
+<!-- LINK BADGE -->
+
+<!--
+
 <p align="center">
   <a href="https://yichun-lin-portfolio.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-Visit_Site-81E29F?style=for-the-badge&logo=googlechrome&logoColor=white" />
@@ -32,6 +49,7 @@
   </a>
 </p>
 
+-->
 
 ---
 

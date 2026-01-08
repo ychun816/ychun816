@@ -4,18 +4,12 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Josefin+Sans&duration=4000&pause=1000&color=599D02&center=true&width=435&lines=Hi+%F0%9F%91%8B+I'm+Yichun+LIN!;DevOps+%26+Cloud+Enthusiast;Student+%40+42+Paris" alt="Typing SVG" />
   </a>
 
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,14,16,18,20&height=2&width=100%"/>
-
-</div>
----
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,14,16,18,20&height=2&width=250"/>
 
 </div>
 
----
 
 ### <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="28"> About Me
 
@@ -26,14 +20,12 @@
 
 <p align="center">
   <a href="https://yichun-lin-portfolio.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-Visit_Site-FF85A1?style=for-the-badge&logo=googlechrome&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfolio-Visit_Site-81E29F?style=for-the-badge&logo=googlechrome&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/sophia-lin-profile/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-A0C4FF?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
-
-
 
 ---
 
@@ -77,6 +69,46 @@
 ![Grafana](https://img.shields.io/badge/Grafana-Learned-C2E7FF?style=flat&logo=grafana&logoColor=white)
 
 </div>
+
+---
+
+
+
+<div align="center">
+
+### <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> My Tech Stack
+
+#### 💻 Languages & Scripting
+![C](https://img.shields.io/badge/C-C2E7FF?style=flat&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C++-C2E7FF?style=flat&logo=c%2B%2B&logoColor=black)
+![Bash](https://img.shields.io/badge/GNU%20Bash-B4E7CE?style=flat&logo=gnu-bash&logoColor=black)
+![Python](https://img.shields.io/badge/Python-C2E7FF?style=flat&logo=python&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-C5A3E8?style=flat&logo=typescript&logoColor=black)
+
+#### ☁️ DevOps & Cloud
+![AWS](https://img.shields.io/badge/AWS-C5A3E8?style=flat&logo=amazon-aws&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-C2E7FF?style=flat&logo=docker&logoColor=black)
+![Terraform](https://img.shields.io/badge/Terraform-C5A3E8?style=flat&logo=terraform&logoColor=black)
+![Ansible](https://img.shields.io/badge/Ansible-FFCCE0?style=flat&logo=ansible&logoColor=black)
+![Linux](https://img.shields.io/badge/Linux-B4E7CE?style=flat&logo=linux&logoColor=black)
+
+#### ⚙️ CI/CD & Observability
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-C2E7FF?style=flat&logo=github-actions&logoColor=black)
+![Prometheus](https://img.shields.io/badge/Prometheus-FFCCE0?style=flat&logo=prometheus&logoColor=black)
+![Grafana](https://img.shields.io/badge/Grafana-FFCCE0?style=flat&logo=grafana&logoColor=black)
+![NGINX](https://img.shields.io/badge/NGINX-B4E7CE?style=flat&logo=nginx&logoColor=black)
+
+</div>
+
+
+<br/>
+
+
+
+
+
+---
+
 
 <div align="center">
 <!-- Snake eating contributions -->
@@ -126,32 +158,6 @@
 
 ## testing 
 
-<div align="center">
-
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Josefin+Sans&duration=4000&pause=1000&color=599D02&center=true&width=435&lines=Hi+%F0%9F%91%8B+I'm+Yichun+LIN!;DevOps+%26+Cloud+Enthusiast;Student+%40+42+Paris" alt="Typing SVG" />
-  </a>
-
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,14,16,18,20&height=2&width=100%"/>
-
-</div>
-
-### <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="28"> About Me
-
-- 🏫 **Student at** [École 42 Paris](https://42.fr/en/homepage/)
-- ☁️ **Focus:** System Administration, Automation, Infrastructure as Code.
-- 👨‍🎓 **Goal:** Actively looking for **Internship / Alternance** opportunities in **DevOps** or **Cloud**.
-
-<p align="left">
-  <a href="https://yichun-lin-portfolio.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-Visit_Site-2ea44f?style=for-the-badge&logo=googlechrome&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/sophia-lin-profile/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
-
----
 
 <div align="center">
 

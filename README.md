@@ -4,19 +4,23 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Josefin+Sans&duration=4000&pause=1000&color=599D02&center=true&width=435&lines=Hi+%F0%9F%91%8B+I'm+Yichun+LIN!;DevOps+%26+Cloud+Enthusiast;Student+%40+42+Paris" alt="Typing SVG" />
   </a>
 
+
+</br>
+
+
 <div align="center">
-
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,14,16,18,20&height=2&width=250"/>
-
 </div>
 
 
+<div align="left">
 ### <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="28"> About Me
 
 - 🏫 **Student at** [École 42 Paris](https://42.fr/en/homepage/)
 - ☁️ **Focus:** System Administration, Automation, Infrastructure as Code.
 - 👨‍🎓 **Goal:** Actively looking for **Internship / Alternance** opportunities in **DevOps** or **Cloud**.
 - 📋 Visit my portfolio at [My website](https://yichun-lin-portfolio.vercel.app) , and [My LinkedIn](https://www.linkedin.com/in/sophia-lin-profile/) !
+</div>
 
 <p align="center">
   <a href="https://yichun-lin-portfolio.vercel.app" target="_blank">
@@ -27,51 +31,8 @@
   </a>
 </p>
 
----
 
-
-<div align="center">
-
-### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> GitHub Statistics
-
-</div>
-
-<div align="center">
-  <!-- -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ychun816&show_icons=true&theme=nord&include_all_commits=true&count_private=true"/>
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ychun816&layout=compact&theme=nord&langs_count=8"/>
-</div>
-
-<div align="center">
-  
-### <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> My Skills & Tools
-
-#### Languages
-![C](https://img.shields.io/badge/C-Learned-B4E7CE?style=flat&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-Intermediate-E6B8E7?style=flat&logo=cplusplus&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-Learned-D4B5E8?style=flat&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-Learned-FFB3BA?style=flat&logo=javascript&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-Learned-BFEFFF?style=flat&logo=gnubash&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-Learned-FFC4D6?style=flat&logo=linux&logoColor=white)
-
-#### Tools
-![AWS](https://img.shields.io/badge/AWS-Learning-C2E7FF?style=flat&logo=AWS&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-Learning-E8D4F0?style=flat&logo=ansible&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terrafrom-Learned-AED9E0?style=flat&logo=terraform&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-Learned-C5A3E8?style=flat&logo=docker&logoColor=white)
-![Docker Compose](https://img.shields.io/badge/Docker%20Compose-Learned-FFD4D4?style=flat&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-Learned-DCC6E8?style=flat&logo=githubactions&logoColor=white)
-
-![NGINX](https://img.shields.io/badge/NGINX-Learned-B8E6CF?style=flat&logo=nginx&logoColor=white)
-![Apache](https://img.shields.io/badge/Apache-Learned-E8D4F0?style=flat&logo=apache&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-Learned-FFCCE0?style=flat&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-Learned-C2E7FF?style=flat&logo=grafana&logoColor=white)
-
-</div>
-
----
-
+</br>
 
 
 <div align="center">

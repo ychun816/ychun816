@@ -20,9 +20,29 @@
 
 - 🏫 **Student at** [École 42 Paris](https://42.fr/en/homepage/)
 - ☁️ **Focus:** System Administration, Automation, Infrastructure as Code.
-- 👨‍🎓 **Goal:** Actively looking for **Internship / Alternance** opportunities in **DevOps** or **Cloud**.
+- 👨‍🎓 **Goal:** Actively looking for Internship opportunities in **Backend** or **DevOps** or **Cloud**.
 - 📋 Visit my portfolio at [My website](https://yichun-lin-portfolio.vercel.app) , and [My LinkedIn](https://www.linkedin.com/in/sophia-lin-profile/) !
 </div>
+
+
+<div align="left">
+  
+### <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="28"> About Me
+
+- 🏫 **Student at** [École 42 Paris](https://42.fr/en/homepage/)
+- ☁️ **Focus:** Solutions Architecture, Cloud Infrastructure, and Automation.
+- 👨‍🎓 **Goal:** Aspiring **Solutions Architect** / Looking for Cloud Internships.
+- 📋 Visit my [Portfolio](https://yichun-lin-portfolio.vercel.app) & [LinkedIn](https://www.linkedin.com/in/sophia-lin-profile/)!
+
+<a href="https://www.credly.com/your-badge-link" target="_blank">
+  <img src="https://img.shields.io/badge/AWS_Certified-Cloud_Practitioner-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS Cloud Practitioner">
+</a>
+
+</div>
+
+
+
+
 
 <!-- LINK BADGE -->
 

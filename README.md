@@ -10,7 +10,7 @@
 
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,14,16,18,20&height=2&width=250"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=FFCCE0,C5A3E8,C2E7FF,B4E7CE&height=2&width=250"/>
 </div>
 
 
@@ -22,10 +22,6 @@
 - ☁️ **Focus:** System Administration, Automation, Infrastructure as Code.
 - 👨‍🎓 **Goal:** Actively looking for Internship opportunities in **Backend** or **DevOps** or **Cloud**.
 - 📋 Visit my portfolio at [My website](https://yichun-lin-portfolio.vercel.app) , and [My LinkedIn](https://www.linkedin.com/in/sophia-lin-profile/) !
-
-<a href="https://www.credly.com/your-badge-link" target="_blank">
-  <img src="https://img.shields.io/badge/AWS_Certified-Cloud_Practitioner-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS Cloud Practitioner">
-</a>
 
 </div>
 
@@ -51,6 +47,11 @@
 <div align="center">
 
 ### <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> My Tech Stack
+
+<a href="https://www.credly.com/your-badge-link" target="_blank">
+  <img src="https://img.shields.io/badge/AWS_Certified-Cloud_Practitioner-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS Cloud Practitioner">
+</a>
+
 
 #### 💻 Languages & Scripting
 ![C](https://img.shields.io/badge/C-C2E7FF?style=flat&logo=c&logoColor=black)
